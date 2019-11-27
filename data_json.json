@@ -1,0 +1,19 @@
+{
+  "events":[
+  {
+    "name":"Tulips violet",
+     "date":"May 1",
+     "map":"f3.jpg"
+   },
+      {
+        "name":"Tulips indigo",
+         "date":"june 1",
+         "map":"f1.jpg"
+     },
+        {
+      "name":"Tulips red",
+       "date":"july 1",
+       "map":"f2.jpg"
+        }
+]
+}

@@ -12,25 +12,25 @@ body {
 
 header {
   display: block;
-  height: 140px;
-  border-bottom: 5px solid #000;
+  height: 200px;
+  border-bottom: 3px solid #000;
   margin-bottom: 30px;}
 
 h1 {
-  font-weight: normal;
-  margin: 28px 0 0 0;
+  margin: 100px 0 0 0;
+  font-size: 400%;
   float: left;
   width: 225px;
   height: 90px;
-  background-image: url('maker-logo.png');
   background-repeat: no-repeat;
   text-indent: 100%;
   white-space: nowrap;
-  overflow: hidden;}
+  }
 
 h2 {
+    margin-left:10%;
   font-size: 2.4em;
-  margin: 0.7em 0 1.7em 0;
+  margin-top:40px
   padding: 0;
   color: #000;
   line-height: 1em;
